@@ -1,0 +1,2 @@
+URL_DESARROLLO = 'http://localhost:8080/api'
+URL_PRODUCCION = 'https://dashboard-admin-jimmy-munoz.onrender.com/api'
